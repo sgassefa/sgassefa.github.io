@@ -1,6 +1,6 @@
 # Course Outline - INSC 702: Advanced Topics in Information Science
 
-**1. Scanning the field of Information Science **
+**1. Scanning the field of Information Science**
 + The landscape of information science.
 + Informatics as a science.
 + Information Problems.
