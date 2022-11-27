@@ -1,21 +1,23 @@
-# Course Outline
+# Course Outline - INSC 702: Advanced Topics in Information Science
 
-**1. Advanced Topics in Information Science**
-+ Scanning the field of Information Science.
+**1. Scanning the field of Information Science **
 + The landscape of information science.
-+ Information Problems
-+ Informatics as a science
-+ Bibliometrics, Scientometrics, Inforemetrics, Altmetrics
++ Informatics as a science.
++ Information Problems.
++ Information Theory.
++ Bibliometrics, Scientometrics, Inforemetrics, Altmetrics.
 
 **2. Information Retrieval**
 + Introduction to Information Retrieval, IR.
 + IR Models.
-+ Information Problems
-+ Informatics as a science
-+ Bibliometrics, Scientometrics, Inforemetrics, Altmetrics
++ Text Classification.
++ Indexing and Searching.
++ Quick Intro to Apache Lucene/Solr
++ Case Studies.
 
 **3. Language and Information**
 + Introduction to Natural Language Processing, NLP.
++ Key Applications.
 + NLP Tools.
 + Case Studies.
 
