@@ -5,7 +5,7 @@
 + Informatics as a science.
 + Information Problems.
 + Information Theory.
-+ Bibliometrics, Scientometrics, Inforemetrics, Altmetrics.
++ Bibliometrics, Scientometrics, Informetrics, Webometrics, Altmetrics.
 
 **2. Information Retrieval**
 + Introduction to Information Retrieval, IR.
