@@ -2,7 +2,7 @@
 
 **1. Scanning the field of Information Science**
 + The landscape of information science.
-+ Informatics as a science.
++ Informatics and Information science.
 + Information Problems.
 + Information Theory.
 + Bibliometrics, Scientometrics, Informetrics, Webometrics, Altmetrics.
