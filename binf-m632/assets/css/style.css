@@ -1725,7 +1725,7 @@ section {
   font-size: 14px;
   margin-bottom: 0;
 }
-/* --
+
 .contact .php-email-form {
   background: #fafbff;
   padding: 30px;
@@ -1805,7 +1805,7 @@ section {
 .contact .php-email-form button[type=submit]:hover {
   background: #5969f3;
 }
---*/
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
